@@ -10,7 +10,7 @@ A set of reusable [React Hooks](https://reactjs.org/docs/hooks-reference.html#us
 ## Examples
 Visit [storybook](https://beizhedenglong.github.io/react-hooks-lib)
 
-## Hooks
+## CustomHooks
 
 | Name                                                     | Arguments                          | Returns                                                      |
 | -------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------ |
